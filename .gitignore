@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 data
-
+lab5/unet_model.pth
 .idea
