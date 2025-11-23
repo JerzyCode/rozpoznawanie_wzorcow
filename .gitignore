@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+data
+lab5/unet_model.pth
+.idea
+
+pompki.mp4
+out2.gif
+second_try.gif
+first_try.gif
+test.gif
